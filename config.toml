@@ -1,4 +1,4 @@
-base_url = "https://waynee95.github.io/zola-theme-hikari"
+base_url = "https://waynee95.github.io/zola-theme-hikari/"
 compile_sass = true
 title = "Hikari"
 description = "Fluid, responsive blog theme for Zola"
