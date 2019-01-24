@@ -18,14 +18,14 @@
       <span class="icon-twitter"></span>
       </a>
     </div>
-    {% if page.next %}
-    <a rel="next" href="{{ config.base_url }}{{ page.next.url }}" id="next">
-    <span class="nav-title nav-title-next">newer</span> &rarr;
+    {% if page.later %}
+    <a rel="next" href="{{ page.later.permalink }}" id="next">
+      <span class="nav-title nav-title-next">newer</span> &rarr;
     </a>
     {% endif %}
-    {% if page.previous %}
-    <a rel="prev" href="{{ config.base_url }}{{ page.previous.url }}" id="prev">
-    <span class="nav-title nav-title-prev">older</span>
+    {% if page.earlier %}
+    <a rel="prev" href="{{ page.earlier.permalink }}" id="prev">
+       &larr;<span class="nav-title nav-title-prev">older</span>
     </a>
     {% endif %}
   </article>

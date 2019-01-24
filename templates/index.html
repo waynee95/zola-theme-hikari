@@ -55,7 +55,7 @@
       {% block main %}
       <div id="home">
         <ul class="posts">
-          {% for post in section.pages | reverse %}
+          {% for post in section.pages %}
           <li itemscope itemtype="http://schema.org/BlogPosting">
             <a href="{{ post.permalink }}" itemprop="url">
               <div class="p-wrap">
