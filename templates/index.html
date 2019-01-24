@@ -52,7 +52,26 @@
         </header>
 
         <main>
-        <!-- content -->
+        {% block main %}
+          <div id="home">
+            <ul class="posts">
+            {% for post in section.pages %}
+            <li itemscope itemtype="http://schema.org/BlogPosting">
+              <a href="{{ post.permalink }}" itemprop="url">
+                <div class="p-wrap">
+                  <article class="inner">
+                    <time datetime="{{ post.date | date(format="%Y-%m-%d") }}" itemprop="datePublished">
+                      {{ post.date | date(format="%d %b %Y") }}
+                    </time>
+                    <p itemprop="name headline">{{ post.title }}</p>
+                  </article>
+                </div>
+              </a>
+            </li>
+          {% endfor %}
+         </ul>
+        </div>
+        {% endblock main %}
         </main>
 
         <footer>
