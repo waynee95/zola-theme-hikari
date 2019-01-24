@@ -6,6 +6,8 @@ Hikari is a simple theme perfect for dev-savvy bloggers.
 
 ![screenshot](/images/screenshot.png)
 
+[View demo](https://waynee95.me/zola-theme-hikari)
+
 ## Installation
 
 First download the theme to your `themes` directory:
