@@ -10,6 +10,9 @@
     {% if config.generate_rss %}
         <link rel="alternate" type="application/rss+xml" title="RSS" href="{{ get_url(path="rss.xml", trailing_slash=false) }}">
     {% endif %}
+    <link rel="stylesheet"
+      href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.13.1/styles/default.min.css">
+    <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.13.1/highlight.min.js"></script>
 </head>
 
 <body>
@@ -55,7 +58,7 @@
         {% block main %}
           <div id="home">
             <ul class="posts">
-            {% for post in section.pages %}
+            {% for post in section.pages | reverse %}
             <li itemscope itemtype="http://schema.org/BlogPosting">
               <a href="{{ post.permalink }}" itemprop="url">
                 <div class="p-wrap">
@@ -80,6 +83,8 @@
     </div>
 
     <script src="{{ config.base_url }}/js/main.js"></script>
+    <script src="/path/to/highlight.pack.js"></script>
+    <script>hljs.initHighlightingOnLoad();</script>
 <!--
     {% if site.ga_tracking_id and site.ga_domain %}
       <script>
