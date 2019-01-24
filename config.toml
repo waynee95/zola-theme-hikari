@@ -1,0 +1,12 @@
+base_url = "http://127.0.0.1:1111/"
+compile_sass = true
+title = "Hikari"
+description = "Fluid, responsive blog theme for Zola"
+generate_rss = true
+
+[extra]
+author = "John Doge"
+author_bio = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ex, pariatur!"
+twitter = "waynee955"
+github = "waynee95"
+instagram = false

@@ -1,0 +1,14 @@
+name = "Hikari"
+description = "Fluid, responsive blog theme for Zola"
+license = "MIT"
+homepage = "https://github.com/waynee95/zola-theme-hikari"
+demo = "https://github.com/waynee95/zola-theme-hikari"
+
+[author]
+name = "waynee95"
+homepage = "https://waynee95.me"
+
+[original]
+name = "Mathieu Mayer-Mazzoli"
+homepage = "//mx3m.github.io"
+repo = "//github.com/mx3m/hikari-for-Jekyll"
