@@ -2,6 +2,11 @@
 
 :warning: This is still work in progress! It's not ready for use yet! 
 
+- [ ] Add pagination
+- [ ] Add Google Analytics
+- [ ] Add Disqus comments
+- [ ] Add LaTeX Support for formulas
+
 > this is a port of the [hikari theme](https://github.com/mx3m/hikari-for-jekyll) for Zola
 
 Hikari is a simple theme perfect for dev-savvy bloggers.
