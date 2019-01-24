@@ -6,6 +6,8 @@
 
 Hikari is a simple theme perfect for dev-savvy bloggers.
 
+![screenshot](/images/screenshot.png)
+
 ## Installation
 
 First download the theme to your `themes` directory:
