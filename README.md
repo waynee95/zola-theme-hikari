@@ -22,6 +22,18 @@ and then enable it in your `config.toml`:
 theme = "hikari"
 ```
 
+## Configuration
+
+```toml
+[extra]
+author = "John Doge"
+author_bio = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ex, pariatur!"
+twitter = "waynee955"
+github = "waynee95"
+instagram = false
+enable_mathjax = false
+```
+
 ## License
 
 [MIT](LICENSE)
