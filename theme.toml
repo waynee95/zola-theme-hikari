@@ -2,7 +2,7 @@ name = "Hikari"
 description = "Fluid, responsive blog theme for Zola"
 license = "MIT"
 homepage = "https://github.com/waynee95/zola-theme-hikari"
-demo = "https://github.com/waynee95/zola-theme-hikari"
+demo = "https://waynee95.me/zola-theme-hikari"
 min_version = "0.5.1"
 
 [author]
