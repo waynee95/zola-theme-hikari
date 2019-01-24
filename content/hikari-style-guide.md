@@ -48,7 +48,7 @@ var separate = function(css) {
 };
 ```
 
-<img src="{{ config.base_url }}/img/img2.jpg">
+<img src="https://waynee95.github.io/zola-theme-hikari/img/img2.jpg">
 
 # Heading 1
 Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure.
