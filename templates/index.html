@@ -79,6 +79,23 @@
   </div>
   <script src="{{ config.base_url }}/js/main.js"></script>
   <script>hljs.initHighlightingOnLoad();</script>
+  {% if config.extra.enable_mathjax %}
+  <script type="text/javascript" async
+    src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+  <script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+      tex2jax: {
+        inlineMath: [['$','$'], ['\\(','\\)']],
+        displayMath: [['$$','$$'], ['\[','\]']],
+        processEscapes: false,
+        processEnvironments: true,
+        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+        TeX: { equationNumbers: { autoNumber: "AMS" },
+             extensions: ["AMSmath.js", "AMSsymbols.js"] }
+      }
+    });
+  </script>
+  {% endif %}
   <!--
     {% if site.ga_tracking_id and site.ga_domain %}
       <script>
