@@ -1,6 +1,6 @@
 # hikari
 
-> this is a port of the [hikari theme](https://github.com/mx3m/hikari-for-jekyll) for Zola
+> this is a port of the [hikari theme](https://github.com/mx3m/hikari-for-jekyll) for [Zola](https://www.getzola.org/)
 
 Hikari is a simple theme perfect for dev-savvy bloggers.
 
