@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<head>
+  <title>Hikari - Fluid, responsive blog theme for Zola</title>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="description" content="Fluid, responsive blog theme for Zola">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <link href="//fonts.googleapis.com/css?family=Open+Sans:400italic,400,300,700|Lora:400,700,400italic" rel="stylesheet" type="text/css">
+  <link rel="stylesheet" href="https:&#x2F;&#x2F;waynee95.github.io&#x2F;zola-theme-hikari&#x2F;main.css">
+  
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="https:&#x2F;&#x2F;waynee95.github.io&#x2F;zola-theme-hikari&#x2F;rss.xml">
+  
+  <link rel="stylesheet"
+    href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.13.1/styles/default.min.css">
+  <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.13.1/highlight.min.js"></script>
+</head>
+<body>
+  <div class="off-canvas">
+    <figure class="avatar">
+      <img src="https:&#x2F;&#x2F;waynee95.github.io&#x2F;zola-theme-hikari&#x2F;/img/avatar.jpg" alt="Picture" title="That's me, John Doge.">
+    </figure>
+    <div class="bio">
+      <h1>Hi, I'm John Doge.</h1>
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ex, pariatur!</p>
+    </div>
+    <nav>
+      
+      <h6>Subscribe</h6>
+      <ul>
+        <li><a target="_blank" href="https:&#x2F;&#x2F;waynee95.github.io&#x2F;zola-theme-hikari&#x2F;rss.xml">RSS feed</a></li>
+      </ul>
+      
+      <h6>Follow me on</h6>
+      <ul>
+        
+        <li><a target="_blank" href="https://twitter.com/waynee955">Twitter</a></li>
+        
+        
+        <li><a target="_blank" href="https://github.com/waynee95">Github</a></li>
+        
+        
+      </ul>
+    </nav>
+  </div>
+  <div class="site-wrapper">
+    <header>
+      <div class="h-wrap">
+        <h1 class="title"><a href="https:&#x2F;&#x2F;waynee95.github.io&#x2F;zola-theme-hikari&#x2F;" title="Back to Homepage">Hikari</a></h1>
+        <a class="menu-icon" title="Open Bio"><span class="lines"></span></a>
+      </div>
+    </header>
+    <main>
+      
+<section class="single-wrap">
+  <article class="single-content" itemscope itemtype="http://schema.org/BlogPosting">
+    <div class="feat">
+      <h5 class="page-date">
+        <time datetime="2014-01-27" itemprop="datePublished">
+        27 Jan 2014
+        </time>
+      </h5>
+    </div>
+    <h1 class="page-title" itemprop="name headline">Styling guide for Hikari: best practices</h1>
+    <div itemprop="articleBody">
+      <p>But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness.</p>
+<blockquote>
+<p>Good design is as little design as possible, said Dieter. Use quotations very carefully; especially if you don't understand them.</p>
+</blockquote>
+<p>No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful.</p>
+<ul>
+<li>Bullet points are so fancy</li>
+<li>Easy to read, they make you look like a pro</li>
+<li>Even when completely random</li>
+</ul>
+<p>In a free hour, when our power of choice is untrammelled and when nothing prevents our being able to do what we like best, every pleasure is to be welcomed and every pain avoided.</p>
+<ol>
+<li>Ooh, and with numbers, it's even fancier</li>
+<li>It's like 1, 2, 3, did you see?</li>
+<li>Crazy stuff all around us; scary</li>
+</ol>
+<p>There's nothing like a good block of code! Especially when picked randomly out of Github (<a href="https://github.com/jacobrask/styledocco/blob/master/styledocco.js">styledocco.js</a>).</p>
+<pre><code>var separate = function(css) {
+  var lines = css.split('\n');
+  var docs, code, line, blocks = [];
+  while (lines.length) {
+    docs = code = '';
+
+    while (lines.length &amp;&amp; checkType(lines[0]) === 'single') {
+      docs += formatDocs(lines.shift());
+    }
+
+    if (lines.length &amp;&amp; checkType(lines[0]) === 'multistart') {
+      while (lines.length) {
+        line = lines.shift();
+        docs += formatDocs(line);
+        if (checkType(line) === 'multiend') break;
+      }
+    }
+    while (lines.length &amp;&amp; (checkType(lines[0]) === 'code' || checkType(lines[0]) === 'multiend')) {
+      code += formatCode(lines.shift());
+    }
+    blocks.push({ docs: docs, code: code });
+  }
+  return blocks;
+};
+</code></pre>
+<p><img src="https://waynee95.github.io/zola-theme-hikari/img/img2.jpg"></p>
+<h1 id="heading-1">Heading 1</h1>
+<p>Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure.</p>
+<h2 id="heading-2">Heading 2</h2>
+<p>But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?</p>
+<h3 id="heading-3">Heading 3</h3>
+<p>In a free hour, when our power of choice is untrammelled and when nothing prevents our being able to do what we like best, every pleasure is to be welcomed and every pain avoided.</p>
+<h4 id="heading-4">Heading 4</h4>
+<p>But in certain circumstances and owing to the claims of duty or the obligations of business it will frequently occur that pleasures have to be repudiated and annoyances accepted.</p>
+
+    </div>
+    <div class="feat share">
+      <a href="http://twitter.com/share" class="popup">
+      <span class="icon-twitter"></span>
+      </a>
+    </div>
+    
+    <a rel="next" href="https:&#x2F;&#x2F;waynee95.github.io&#x2F;zola-theme-hikari&#x2F;some-article&#x2F;" id="next">
+      <span class="nav-title nav-title-next">newer</span> &rarr;
+    </a>
+    
+    
+  </article>
+</section>
+
+    </main>
+    <footer>
+      <small>Powered by <a href="https://www.getzola.org">Zola</a> - Theme: <a href="https://github.com/waynee95/zola-theme-hikari">Hikari</a> - &copy; John Doge</small>
+    </footer>
+  </div>
+  <script src="https:&#x2F;&#x2F;waynee95.github.io&#x2F;zola-theme-hikari&#x2F;/js/main.js"></script>
+  <script>hljs.initHighlightingOnLoad();</script>
+  
+  <!--
+    
+    -->
+</body>
+</html>

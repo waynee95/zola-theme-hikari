@@ -1,0 +1,97 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Hikari</title>
+        <link>https://waynee95.github.io/zola-theme-hikari/</link>
+        <description>Fluid, responsive blog theme for Zola</description>
+        <generator>Zola</generator>
+        <language>en</language>
+        <atom:link href="https://waynee95.github.io/zola-theme-hikari/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 25 Sep 2017 00:00:00 +0000</lastBuildDate>
+        
+            <item>
+                <title>A first theme for Zola</title>
+                <pubDate>Mon, 25 Sep 2017 00:00:00 +0000</pubDate>
+                <link>https://waynee95.github.io/zola-theme-hikari/some-other-article/</link>
+                <guid>https://waynee95.github.io/zola-theme-hikari/some-other-article/</guid>
+                <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc eu feugiat sapien. Aenean ligula nunc, laoreet id sem in, interdum bibendum felis. Donec vel dui neque. Praesent ac sem ut justo volutpat rutrum a imperdiet tellus. Nam lobortis massa non hendrerit hendrerit. Vivamus porttitor dignissim turpis, eget aliquam urna tincidunt non. Aliquam et fringilla turpis. Nullam eros est, eleifend in ornare sed, hendrerit eget est. Aliquam tellus felis, suscipit vitae ex vel, fringilla tempus massa. Nulla facilisi. Pellentesque lobortis consequat lectus. Maecenas ac libero elit.&lt;&#x2F;p&gt;
+&lt;p&gt;Ut luctus dolor ut tortor hendrerit, sed hendrerit augue scelerisque. Suspendisse quis sodales dui, at tempus ante. Nulla at tempor metus. Aliquam vitae rutrum diam. Curabitur iaculis massa dui, quis varius nulla finibus a. Praesent eu blandit justo. Suspendisse pharetra, arcu in rhoncus rutrum, magna magna viverra erat, eget vestibulum enim tellus id dui. Nunc vel dui et arcu posuere maximus. Mauris quam quam, bibendum sed libero nec, tempus hendrerit arcu. Suspendisse sed gravida orci. Fusce tempor arcu ac est pretium porttitor. Aenean consequat risus venenatis sem aliquam, at sollicitudin nulla semper. Aenean bibendum cursus hendrerit. Nulla congue urna nec finibus bibendum. Donec porta tincidunt ligula non ultricies.&lt;&#x2F;p&gt;
+&lt;p&gt;Sed vulputate tristique elit, eget pharetra elit sodales sed. Proin dignissim ipsum lorem, at porta eros malesuada sed. Proin tristique eros eu quam ornare, suscipit luctus mauris lobortis. Phasellus ut placerat enim. Donec egestas faucibus maximus. Nam quis efficitur eros. Cras tincidunt, lacus ac pretium porta, dui dolor varius elit, eget laoreet justo justo vitae metus. Morbi eget nisi ut ex scelerisque lobortis ut in lorem. Vestibulum et lorem quis ipsum feugiat varius. Mauris nec nulla viverra nisi porttitor efficitur. Morbi vel purus eleifend, finibus erat non, placerat ipsum. Mauris et augue vel nisi volutpat aliquam. Curabitur malesuada tortor est, at condimentum neque eleifend in.&lt;&#x2F;p&gt;
+&lt;p&gt;Morbi id ornare lacus. Suspendisse ultrices rutrum posuere. Nullam porttitor libero quis ligula finibus semper. Mauris iaculis magna et nisl tristique, eget maximus ex feugiat. Nam eu felis leo. Quisque ultrices varius purus in molestie. Duis non accumsan ligula. Vivamus dignissim malesuada metus, vel hendrerit tellus viverra id. Curabitur posuere, mauris vitae dignissim dictum, velit mi condimentum lorem, nec varius velit arcu a mi. In dolor sapien, condimentum sed aliquam at, dignissim id purus. Cras lorem leo, vulputate ac ante sed, molestie tempus lectus. Curabitur efficitur libero quam, rhoncus faucibus libero pharetra nec. Curabitur lobortis ullamcorper nisl eu imperdiet. Duis porttitor interdum magna, ac eleifend orci consequat vitae. Aliquam augue felis, faucibus vel blandit sed, maximus non turpis.&lt;&#x2F;p&gt;
+&lt;p&gt;Quisque viverra a eros id auctor. Proin id nibh ut nisl dignissim pellentesque et ac mi. Nullam mattis urna quis consequat bibendum. Donec pretium dui elit, a semper purus tristique et. Mauris euismod nisl eu vehicula facilisis. Maecenas facilisis non massa non scelerisque. Integer malesuada cursus erat eu viverra. Duis ligula mi, eleifend vel justo id, laoreet porttitor ex. Etiam ultricies lacus lorem, sed aliquam nulla blandit in. Maecenas vel facilisis neque, vitae fringilla eros. In justo nibh, pellentesque sed faucibus nec, varius sit amet risus.&lt;&#x2F;p&gt;
+</description>
+            </item>
+        
+            <item>
+                <title>What is Zola</title>
+                <pubDate>Sun, 24 Sep 2017 00:00:00 +0000</pubDate>
+                <link>https://waynee95.github.io/zola-theme-hikari/some-article/</link>
+                <guid>https://waynee95.github.io/zola-theme-hikari/some-article/</guid>
+                <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc eu feugiat sapien. Aenean ligula nunc, laoreet id sem in, interdum bibendum felis. Donec vel dui neque. Praesent ac sem ut justo volutpat rutrum a imperdiet tellus. Nam lobortis massa non hendrerit hendrerit. Vivamus porttitor dignissim turpis, eget aliquam urna tincidunt non. Aliquam et fringilla turpis. Nullam eros est, eleifend in ornare sed, hendrerit eget est. Aliquam tellus felis, suscipit vitae ex vel, fringilla tempus massa. Nulla facilisi. Pellentesque lobortis consequat lectus. Maecenas ac libero elit.&lt;&#x2F;p&gt;
+&lt;p&gt;Ut luctus dolor ut tortor hendrerit, sed hendrerit augue scelerisque. Suspendisse quis sodales dui, at tempus ante. Nulla at tempor metus. Aliquam vitae rutrum diam. Curabitur iaculis massa dui, quis varius nulla finibus a. Praesent eu blandit justo. Suspendisse pharetra, arcu in rhoncus rutrum, magna magna viverra erat, eget vestibulum enim tellus id dui. Nunc vel dui et arcu posuere maximus. Mauris quam quam, bibendum sed libero nec, tempus hendrerit arcu. Suspendisse sed gravida orci. Fusce tempor arcu ac est pretium porttitor. Aenean consequat risus venenatis sem aliquam, at sollicitudin nulla semper. Aenean bibendum cursus hendrerit. Nulla congue urna nec finibus bibendum. Donec porta tincidunt ligula non ultricies.&lt;&#x2F;p&gt;
+&lt;p&gt;Sed vulputate tristique elit, eget pharetra elit sodales sed. Proin dignissim ipsum lorem, at porta eros malesuada sed. Proin tristique eros eu quam ornare, suscipit luctus mauris lobortis. Phasellus ut placerat enim. Donec egestas faucibus maximus. Nam quis efficitur eros. Cras tincidunt, lacus ac pretium porta, dui dolor varius elit, eget laoreet justo justo vitae metus. Morbi eget nisi ut ex scelerisque lobortis ut in lorem. Vestibulum et lorem quis ipsum feugiat varius. Mauris nec nulla viverra nisi porttitor efficitur. Morbi vel purus eleifend, finibus erat non, placerat ipsum. Mauris et augue vel nisi volutpat aliquam. Curabitur malesuada tortor est, at condimentum neque eleifend in.&lt;&#x2F;p&gt;
+&lt;p&gt;Morbi id ornare lacus. Suspendisse ultrices rutrum posuere. Nullam porttitor libero quis ligula finibus semper. Mauris iaculis magna et nisl tristique, eget maximus ex feugiat. Nam eu felis leo. Quisque ultrices varius purus in molestie. Duis non accumsan ligula. Vivamus dignissim malesuada metus, vel hendrerit tellus viverra id. Curabitur posuere, mauris vitae dignissim dictum, velit mi condimentum lorem, nec varius velit arcu a mi. In dolor sapien, condimentum sed aliquam at, dignissim id purus. Cras lorem leo, vulputate ac ante sed, molestie tempus lectus. Curabitur efficitur libero quam, rhoncus faucibus libero pharetra nec. Curabitur lobortis ullamcorper nisl eu imperdiet. Duis porttitor interdum magna, ac eleifend orci consequat vitae. Aliquam augue felis, faucibus vel blandit sed, maximus non turpis.&lt;&#x2F;p&gt;
+&lt;p&gt;Quisque viverra a eros id auctor. Proin id nibh ut nisl dignissim pellentesque et ac mi. Nullam mattis urna quis consequat bibendum. Donec pretium dui elit, a semper purus tristique et. Mauris euismod nisl eu vehicula facilisis. Maecenas facilisis non massa non scelerisque. Integer malesuada cursus erat eu viverra. Duis ligula mi, eleifend vel justo id, laoreet porttitor ex. Etiam ultricies lacus lorem, sed aliquam nulla blandit in. Maecenas vel facilisis neque, vitae fringilla eros. In justo nibh, pellentesque sed faucibus nec, varius sit amet risus.&lt;&#x2F;p&gt;
+</description>
+            </item>
+        
+            <item>
+                <title>Styling guide for Hikari: best practices</title>
+                <pubDate>Mon, 27 Jan 2014 00:00:00 +0000</pubDate>
+                <link>https://waynee95.github.io/zola-theme-hikari/hikari-style-guide/</link>
+                <guid>https://waynee95.github.io/zola-theme-hikari/hikari-style-guide/</guid>
+                <description>&lt;p&gt;But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness.&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Good design is as little design as possible, said Dieter. Use quotations very carefully; especially if you don&#x27;t understand them.&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Bullet points are so fancy&lt;&#x2F;li&gt;
+&lt;li&gt;Easy to read, they make you look like a pro&lt;&#x2F;li&gt;
+&lt;li&gt;Even when completely random&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;In a free hour, when our power of choice is untrammelled and when nothing prevents our being able to do what we like best, every pleasure is to be welcomed and every pain avoided.&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;Ooh, and with numbers, it&#x27;s even fancier&lt;&#x2F;li&gt;
+&lt;li&gt;It&#x27;s like 1, 2, 3, did you see?&lt;&#x2F;li&gt;
+&lt;li&gt;Crazy stuff all around us; scary&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;There&#x27;s nothing like a good block of code! Especially when picked randomly out of Github (&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;jacobrask&#x2F;styledocco&#x2F;blob&#x2F;master&#x2F;styledocco.js&quot;&gt;styledocco.js&lt;&#x2F;a&gt;).&lt;&#x2F;p&gt;
+&lt;pre&gt;&lt;code&gt;var separate = function(css) {
+  var lines = css.split(&#x27;\n&#x27;);
+  var docs, code, line, blocks = [];
+  while (lines.length) {
+    docs = code = &#x27;&#x27;;
+
+    while (lines.length &amp;amp;&amp;amp; checkType(lines[0]) === &#x27;single&#x27;) {
+      docs += formatDocs(lines.shift());
+    }
+
+    if (lines.length &amp;amp;&amp;amp; checkType(lines[0]) === &#x27;multistart&#x27;) {
+      while (lines.length) {
+        line = lines.shift();
+        docs += formatDocs(line);
+        if (checkType(line) === &#x27;multiend&#x27;) break;
+      }
+    }
+    while (lines.length &amp;amp;&amp;amp; (checkType(lines[0]) === &#x27;code&#x27; || checkType(lines[0]) === &#x27;multiend&#x27;)) {
+      code += formatCode(lines.shift());
+    }
+    blocks.push({ docs: docs, code: code });
+  }
+  return blocks;
+};
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;waynee95.github.io&#x2F;zola-theme-hikari&#x2F;img&#x2F;img2.jpg&quot;&gt;&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;heading-1&quot;&gt;Heading 1&lt;&#x2F;h1&gt;
+&lt;p&gt;Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;heading-2&quot;&gt;Heading 2&lt;&#x2F;h2&gt;
+&lt;p&gt;But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;heading-3&quot;&gt;Heading 3&lt;&#x2F;h3&gt;
+&lt;p&gt;In a free hour, when our power of choice is untrammelled and when nothing prevents our being able to do what we like best, every pleasure is to be welcomed and every pain avoided.&lt;&#x2F;p&gt;
+&lt;h4 id=&quot;heading-4&quot;&gt;Heading 4&lt;&#x2F;h4&gt;
+&lt;p&gt;But in certain circumstances and owing to the claims of duty or the obligations of business it will frequently occur that pleasures have to be repudiated and annoyances accepted.&lt;&#x2F;p&gt;
+</description>
+            </item>
+        
+    </channel>
+</rss>
