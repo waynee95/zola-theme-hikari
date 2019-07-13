@@ -38,4 +38,4 @@ enable_mathjax = false
 
 [MIT](LICENSE)
 
-Thanks to [Mathieu Mayer-Mazzoli](//github.com/mx3m) for creating this awesome theme!
+Thanks to [Mathieu Mayer-Mazzoli](https://github.com/mx3m) for creating this awesome theme!
